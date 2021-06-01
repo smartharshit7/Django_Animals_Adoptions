@@ -1,0 +1,4 @@
+Requirement already satisfied: django in c:\users\hp user\appdata\local\programs\python\python37-32\lib\site-packages (2.0.7)
+Requirement already satisfied: pytz in c:\users\hp user\appdata\local\programs\python\python37-32\lib\site-packages (from django) (2019.2)
+Could not build wheels for django, since package 'wheel' is not installed.
+Could not build wheels for pytz, since package 'wheel' is not installed.
